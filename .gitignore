@@ -2,3 +2,6 @@ env
 env/*
 .env
 *.pyc
+sessions/*
+conversation_history/*
+uploads/*
