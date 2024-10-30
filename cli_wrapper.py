@@ -1,13 +1,9 @@
 import os
 import anthropic
-import argparse
-import yaml
 import subprocess
-from datetime import datetime
-import uuid
-from typing import Dict, Any, List, Optional, Union
+from datetime import datetime   
+from typing import Dict, Any, List, Optional
 import traceback
-import sys
 import logging
 from logging.handlers import RotatingFileHandler
 from dotenv import load_dotenv

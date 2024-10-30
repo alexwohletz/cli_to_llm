@@ -1,6 +1,6 @@
 # i-Shell
 
-A Streamlit-based web application that provides an AI-powered CLI assistant. This tool helps users execute and understand command-line operations through natural language interaction.
+A Streamlit-based web wrapper based on this [repo](https://github.com/disler/anthropic-computer-use-bash-and-files/blob/main/src/anthropic_computer_use/main.py) that provides an AI-powered CLI assistant. This tool helps users execute and understand command-line operations through natural language interaction.
 
 ## Features
 

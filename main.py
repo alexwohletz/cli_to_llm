@@ -5,7 +5,6 @@ from datetime import datetime
 import uuid
 import json
 from cli_wrapper import BashSession, SessionLogger, SESSIONS_DIR
-import time
 from pypdf import PdfReader
 from pathlib import Path
 import shutil
