@@ -1,6 +1,4 @@
 env
 env/*
 .env
-conversation_history/*
-sessions/*
 *.pyc

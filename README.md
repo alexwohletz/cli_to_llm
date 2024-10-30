@@ -19,7 +19,7 @@ A Streamlit-based web application that provides an AI-powered CLI assistant. Thi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone git@github.com:alexwohletz/cli_to_llm.git
 cd cli_to_llm
 ```
 
