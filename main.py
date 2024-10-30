@@ -136,7 +136,7 @@ def process_bot_response(message: str, history: List[Dict[str, str]], state: tup
 
 def main():
     st.set_page_config(
-        page_title="ClaudeShell",
+        page_title="i-Shell",
         page_icon="🤖",
         layout="wide"
     )
@@ -178,7 +178,7 @@ def main():
                 st.rerun()
 
     # Main chat area
-    st.title("🤖 Cli Assistant")
+    st.title("🤖 i-Shell")
     st.markdown("""
     Chat with an AI assistant that can understand a CLI instantly and help you with simple to complex tasks.
     Your conversation history is automatically saved.
