@@ -1,4 +1,4 @@
-# ClaudeShell
+# i-Shell
 
 A Streamlit-based web application that provides an AI-powered CLI assistant. This tool helps users execute and understand command-line operations through natural language interaction.
 
